@@ -2,10 +2,10 @@
 
 A modern, AI-powered resume builder that helps you create professional, ATS-friendly resumes with beautiful templates and intelligent editing capabilities.
 
-![Resume Builder Landing Page](./assets/Screenshot.png)
+![Resume Builder Landing Page](./public/image.png)
 
 ## 🚀 Features
-
+   
 ### ✨ Core Features
 
 - **AI-Powered Resume Generation** - Create professional resumes with intelligent content suggestions
@@ -75,7 +75,7 @@ This project requires a separate Node.js LaTeX server for PDF generation. The La
 
 ### LaTeX Server Repository
 
-- **GitHub**: [LaTeX to PDF Server](https://github.com/prayag78/Gen_demo/tree/5bc713c54415df3dc101073830c1bf8de3aba30c/apps/backend)
+- **GitHub**: [LaTeX to PDF Server](https://github.com/prayag78/latex_server)
 - **Description**: Node.js server that converts LaTeX code to PDF using Docker containers
 - **Deployment**: Deployed on Vercel for production use
 
